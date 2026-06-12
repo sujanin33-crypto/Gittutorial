@@ -1,1 +1,2 @@
 @My first GIT Exersise@
+My Name is WMSN Wijesinghe.I am a teacher.
